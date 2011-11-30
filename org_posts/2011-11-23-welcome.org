@@ -8,4 +8,4 @@ categories:
 ---
 #+END_HTML
 
-Hello World! Today I decided to migrate my static website to [[http://octopress.org][Octopress]]. As a [[http://orgmode.org/][Org-mode]] user, I have just integrated it following [[http://jaderholm.com/blog/blog/2011/09/26/blogging-with-org-mode-and-octopress/][this idea]], but I'm still not 100% happy with the resulting work flow... this means that the migration process to my new site will take some time.
+Hello World! Today I decided to migrate my static website to [[http://octopress.org][Octopress]]. As [[http://orgmode.org/][Org-mode]] user, I have just integrated it following [[http://jaderholm.com/blog/blog/2011/09/26/blogging-with-org-mode-and-octopress/][this idea]], but I'm still not 100% happy with the resulting work flow... this means that the migration process to my new site will take some time.

@@ -4,7 +4,7 @@
   <title><![CDATA[Mauro Rovezzi]]></title>
   <link href="http://mauro.rovezzi.it/atom.xml" rel="self"/>
   <link href="http://mauro.rovezzi.it/"/>
-  <updated>2011-11-23T17:22:35+01:00</updated>
+  <updated>2011-11-30T11:08:20+01:00</updated>
   <id>http://mauro.rovezzi.it/</id>
   <author>
     <name><![CDATA[Mauro Rovezzi]]></name>
@@ -19,7 +19,7 @@
     <updated>2011-11-23T16:24:00+01:00</updated>
     <id>http://mauro.rovezzi.it/blog/2011/11/23/welcome</id>
     <content type="html"><![CDATA[<p>
-Hello World! Today I decided to migrate my static website to <a href="http://octopress.org">Octopress</a>. As a <a href="http://orgmode.org/">Org-mode</a> user, I have just integrated it following <a href="http://jaderholm.com/blog/blog/2011/09/26/blogging-with-org-mode-and-octopress/">this idea</a>, but I&#8217;m still not 100% happy with the resulting work flow&hellip; this means that the migration process to my new site will take some time.
+Hello World! Today I decided to migrate my static website to <a href="http://octopress.org">Octopress</a>. As <a href="http://orgmode.org/">Org-mode</a> user, I have just integrated it following <a href="http://jaderholm.com/blog/blog/2011/09/26/blogging-with-org-mode-and-octopress/">this idea</a>, but I&#8217;m still not 100% happy with the resulting work flow&hellip; this means that the migration process to my new site will take some time.
 </p>
 
 ]]></content>
