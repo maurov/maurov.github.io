@@ -1,0 +1,35 @@
+.. -*- restructuredtext -*-
+.. _research:
+
+==================================================
+ My two cents contribution to scientific research
+==================================================
+
+Open-access
+===========
+
+*  `Contributed articles on arXiv <http://arxiv.org/find/cond-mat/1/au:+Rovezzi_M/0/1/0/all/0/1>`_ (from 2008)
+*  `My PhD thesis <http://tel.archives-ouvertes.fr/tel-00442852/en/>`_ *Study of the local order around magnetic impurities in semiconductors for spintronics* (University of Grenoble "Joseph Fourier", 2009)
+*  `My Master Degree dissertation <http://www.rovezzi.it/mauro/thesis/>`_ *Mo/Si multilayers characterized by standing-wave assisted XAFS* (University of Rome "Tor Vergata" 2005, in Italian!)
+
+Publications
+============
+
+.. raw:: html
+
+	 <iframe src="http://www.mendeley.com/profiles/mauro-rovezzi/widget/32/2645286096/b50abf53dc1253d75f1d65fdcd7a5c78a405e245/" frameborder="0" allowTransparency="true" style="width:800px;height:950px;"></iframe>
+
+Selected Talks
+==============
+
+* From DMS to CMS: a characterization protocol
+
+  .. raw:: html
+
+	   <object id="__sse7324671" width="425" height="355">
+	   <param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=dematen2rovezzi-v3-110320113232-phpapp02&stripped_title=from-dilute-to-condensed-magnetic-semiconductors-a-protocol-for-systematic-characterization&userName=mau-rov" />
+	   <param name="allowFullScreen" value="true"/>
+	   <param name="allowScriptAccess" value="always"/>
+	   <embed name="__sse7324671" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=dematen2rovezzi-v3-110320113232-phpapp02&stripped_title=from-dilute-to-condensed-magnetic-semiconductors-a-protocol-for-systematic-characterization&userName=mau-rov" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed> 
+	   </object>
+
