@@ -10,10 +10,6 @@ Welcome
 
 In this space you will find some (hope useful) material related to my activity as *researcher in materials science* or as *open-source enthusiast*, while I will express elsewhere my private and political interests; **the views expressed here are my personal views and do not reflect my employer**.
 
-For specific information, comments or whatever, you can `contact me by email <http://mailhide.recaptcha.net/d?k=011RL8OK49d7vJvXkwD_8ALg==&amp;c=hTFYpQoLVA_88AeskxfgaTP4jlBUi80yhECrU3XtyfI=>`_.
-
-My current affiliation: European Synchrotron Radiation Facility (`ESRF <http://www.esrf.eu>`_), 6 rue Jules Horowitz, BP 220, F-38043 Grenoble (France)
-
 Contents:
 
 .. toctree::
@@ -21,4 +17,4 @@ Contents:
 
    research.rst
    literature_selection.rst
-
+   #scisoft_notes.rst
