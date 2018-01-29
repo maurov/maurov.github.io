@@ -1,7 +1,0 @@
-.. -*- restructuredtext -*-
-.. _scisoft_notes:
-
-=========================
-Scientific software notes
-=========================
-
