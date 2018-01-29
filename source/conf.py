@@ -218,7 +218,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'MauRo.tex', 'MauRo Documentation',
+    (master_doc, 'MauRo.tex', 'MauRo webpage',
      'Mauro Rovezzi', 'manual'),
 ]
 
@@ -228,7 +228,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'mauro', 'MauRo Documentation',
+    (master_doc, 'mauro', 'MauRo webpage',
      [author], 1)
 ]
 
@@ -239,11 +239,10 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'MauRo', 'MauRo Documentation',
-     author, 'MauRo', 'One line description of project.',
+    (master_doc, 'MauRo', 'MauRo webpage',
+     author, 'MauRo', 'my personal web pages.',
      'Miscellaneous'),
 ]
-
 
 # -- Options for sphinxcontrib-googleanalytics extension ------------------
 googleanalytics_id = 'UA-9650247-1'
